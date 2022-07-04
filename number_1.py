@@ -2,6 +2,8 @@ import numpy as np
 from math import *
 
 # step one - get the data
+# vecx = [force, degree]
+
 vec1 = [60, 45]
 vec2 = [40, 20]
 vec3 = [50, 30]
